@@ -34,10 +34,11 @@ VibeChain's full source code will be open-sourced 6 months after mainnet launch 
 
 VibeChain is a fair launch project with zero premine and zero funding. Development is sustained entirely by community support.
 
-**VIBE Donation Address:**
-```
-d209dbdf745207a70df0b32b2ac8b49e7d1d5ab4
-```
+| Currency | Address |
+|----------|---------|
+| VIBE | `d209dbdf745207a70df0b32b2ac8b49e7d1d5ab4` |
+| Ethereum | `0xf39Db0dC2c06f4B13d2eF5A6DB6d1d2D78060fBE` |
+| Bitcoin | `bc1qksrgyyvuckmqnjhweskt3y87gw5mhp0sw2ymk8` |
 
 All donations go directly to ongoing development, infrastructure (bootstrap nodes), and security audits.
 

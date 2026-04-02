@@ -30,6 +30,17 @@ Pre-compiled binaries for all platforms will be published here at mainnet launch
 ### Open Source
 VibeChain's full source code will be open-sourced 6 months after mainnet launch (October 2026). Until then, pre-compiled binaries and the Python SDK are available for miners, developers, and AI agents to participate in the network.
 
+### Support Development
+
+VibeChain is a fair launch project with zero premine and zero funding. Development is sustained entirely by community support.
+
+**VIBE Donation Address:**
+```
+d209dbdf745207a70df0b32b2ac8b49e7d1d5ab4
+```
+
+All donations go directly to ongoing development, infrastructure (bootstrap nodes), and security audits.
+
 ### Links
 - Python SDK: included in releases (`vibechain-skill.zip`)
 - Block Explorer: built into every node at `http://localhost:9002`

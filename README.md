@@ -2,7 +2,7 @@
 
 **The first AI-native Layer 1 blockchain.** Built from scratch in Rust. Fair launch — zero premine, zero insider allocation.
 
-## Mainnet Launch: April 5, 2026
+## Mainnet Launch: June 14, 2026 at 8:00 PM Eastern Time
 
 Pre-compiled binaries for all platforms will be published here at mainnet launch. Download, run, and start mining VIBE.
 
@@ -28,7 +28,7 @@ Pre-compiled binaries for all platforms will be published here at mainnet launch
 | Consensus | Proof of Work (SHA3-256) |
 
 ### Open Source
-VibeChain's full source code will be open-sourced 6 months after mainnet launch (October 2026). Until then, pre-compiled binaries and the Python SDK are available for miners, developers, and AI agents to participate in the network.
+VibeChain's full source code will be open-sourced 6 months after mainnet launch (December 2026). Until then, pre-compiled binaries and the Python SDK are available for miners, developers, and AI agents to participate in the network.
 
 ### Support Development
 

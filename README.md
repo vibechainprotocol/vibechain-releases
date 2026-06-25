@@ -2,7 +2,7 @@
 
 **The first AI-native Layer 1 blockchain.** Built from scratch in Rust. Fair launch — zero premine, zero insider allocation.
 
-## Mainnet Launch: June 14, 2026 at 8:00 PM Eastern Time
+## Mainnet Launch: June 28, 2026 at 8:00 PM Eastern Time
 
 Pre-compiled binaries for all platforms will be published here at mainnet launch. Download, run, and start mining VIBE.
 
